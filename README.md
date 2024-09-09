@@ -1,7 +1,8 @@
 <p align=center><img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width=50%></p>
+<br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&duration=4000&pause=500&color=50A9EE&background=FFFFFF00&center=true&width=500&height=70&lines=Hey+there+!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Prakhar+Saxena;I+am+a+MERN+Developer" alt="Typing SVG" /></a>
-    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=30&duration=4000&pause=500&color=50A9EE&background=FFFFFF00&center=true&width=600&height=70&lines=Hey+there+!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Prakhar+Saxena;I+am+a+MERN+Developer" alt="Typing SVG" /></a>
+  
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharsxn7&label=Profile%20views&color=0e75b6&style=flat" alt="prakharsxn7" /> </p>
