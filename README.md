@@ -1,34 +1,82 @@
 <p align=center><img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width=40% ></p>
 <br>
 
- <h1 align="center">Hey 👋, I'm Prakhar Saxena</h1>
- <h3 align="center">A Passionate MERN Stack developer </h3>
+ <h1 align="center">Hi 👋, I'm Prakhar Saxena</h1>
+ <h3 align="center">Full Stack Developer(MERN)|Engineering Scalable, Next-Gen Apps</h3>
  <br>
+ 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharsxn7&label=Profile%20views&color=0e75b6&style=flat" alt="prakharsxn7" /> </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prakharsxn7&label=Profile%20views&color=0e75b6&style=flat" alt="prakharsxn7" /> </p>
 
-<p align="left"> <a href="https://twitter.com/prakharsxn7" target="blank"><img src="https://img.shields.io/twitter/follow/prakharsxn7?logo=twitter&style=for-the-badge" alt="prakharsxn7" /></a> </p>
+ - 🌱 I’m currently learning **front-end and back-end frameworks**
+ - 📫 Reach me at: **prakharsxn7@gmail.com**  
+ - 🌍 Based in **India**, open to remote opportunities  
+---
 
-- 🌱 I’m currently learning **Firebase, APIs and ExpressJS**
+<h3>Visit My Portfolio </h3>
+https://prakharsportfolio.vercel.app
+<img align='right' src='https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif' width='200"'>
+<!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
+<h4>Or you can scan this QR Code 👇🏻</h4>
+<img src="https://github.com/prakharsxn7/prakharsxn7/blob/main/qr-code.png"  style="width: 20%" />
 
-- 📫 How to reach me **prakharsxn7@gmail.com**
+---
+<h2> I work with </h2>
+<div align="center"> 
+ 
+#### 🖥️  Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,php"/>
+
+#### 🎨  Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,vite,babel,figma,notion"/>
+
+#### ⚙️  Backend 
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,fastapi"/>
+
+#### 🗄️  Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+#### ☁️  Cloud Platforms & Hosting
+<img src="https://skillicons.dev/icons?i=netlify,vercel,gcp"/>  <img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width=5% />
+
+#### 🔧  Dev Tools & Utilities
+<img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode,nginx,linux,apple"/> 
+<div/>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/@prakharsxn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@prakharsxn7" height="30" width="40" /></a>
-<a href="https://twitter.com/prakharsxn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakharsxn7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prakharsxn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakharsxn7" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21641460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21641460" height="30" width="40" /></a>
-<a href="https://instagram.com/prakharsxn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prakharsxn7" height="30" width="40" /></a>
-<a href="https://hashnode.com/@prakharsxn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@prakharsxn7" height="30" width="40" /></a>
-<a href="https://medium.com/@prakharsxn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prakharsxn7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prakharsxn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prakharsxn7" height="30" width="40" /></a>
+ <p align="left">
+  <a href="https://www.linkedin.com/in/prakharsxn7" target="blank">
+   <img src="https://skillicons.dev/icons?i=linkedin"/> 
+  </a>
+  <a href="https://discord.com/users/932508220621213696" target="blank">
+   <img src="https://skillicons.dev/icons?i=discord"/> 
+  </a>
+  <a href="https://www.instagram.com/prakharsxn7/" target="blank">
+    <img src="https://skillicons.dev/icons?i=instagram"/> 
+  </a>
+  <a href="https://www.youtube.com/@prakharsxn7" target="blank">
+    <img src="https://www.freeiconspng.com/uploads/youtube-logo-png-photo-0.png"  width="70" />
+  </a>
+  <a href="mailto:prakharsxn7@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail"/> 
+  </a>
+  <a href="https://x.com/prakharsxn7" target="blank">
+    <img src="https://skillicons.dev/icons?i=twitter"/> 
+  </a>
+  <a href="https://leetcode.com/u/prakharsxn7/" target="blank">
+    <img src="https://cdn.theorg.com/36218b9f-879b-481e-9332-ebc4692d7587_thumb.jpg" height="80" width="50" />
+  </a>
+  <a href="https://stackoverflow.com/users/21641460/prakhar-saxena" target="blank">
+   <img src="https://skillicons.dev/icons?i=stackoverflow"/> 
+  </a>
+  <a href="https://dev.to/prakharsxn7" target="blank">
+    <img src="https://skillicons.dev/icons?i=devto"/> 
+  </a> 
+  
+   
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakharsxn7&show_icons=true&locale=en&layout=compact" alt="prakharsxn7" /></p>
-
